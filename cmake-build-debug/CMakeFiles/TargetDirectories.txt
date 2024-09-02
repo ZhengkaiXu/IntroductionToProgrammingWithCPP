@@ -1,0 +1,3 @@
+/Users/xuzhengkai/Desktop/study/IntroductionToProgrammingWithCPP/cmake-build-debug/CMakeFiles/IntroductionToProgrammingWithCPP.dir
+/Users/xuzhengkai/Desktop/study/IntroductionToProgrammingWithCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuzhengkai/Desktop/study/IntroductionToProgrammingWithCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
