@@ -1,5 +1,5 @@
 #include <iostream>
-#include "CircleWithPrivateDataFields.h"
+#include "../ch10/CircleWithPrivateDataFields.h"
 using namespace std;
 
 int main() {

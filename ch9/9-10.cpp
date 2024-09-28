@@ -1,4 +1,4 @@
-#include "CircleWithPrivateDataFields.h"
+#include "../ch10/CircleWithPrivateDataFields.h"
 
 // Construct a default circle object
 Circle::Circle() {
